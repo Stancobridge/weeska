@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2020 by original authors @ fontello.com</metadata>
+<defs>
+<font id="lte-font" horiz-adv-x="1000" >
+<font-face font-family="lte-font" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="right" unicode="&#xe800;" d="M994 365l-313 312c-8 8-21 8-29 0-8-8-8-21 0-29l277-277h-908c-12 0-21-9-21-21s9-21 21-21h908l-277-277c-8-8-8-21 0-29 4-4 9-6 15-6 5 0 10 2 14 6l313 312c8 8 8 22 0 30z" horiz-adv-x="1000" />
+
+<glyph glyph-name="search" unicode="&#xe801;" d="M988-79l-285 285c56 68 89 154 89 248 0 218-178 396-396 396s-396-178-396-396 178-396 396-396c94 0 181 34 249 89l284-285c8-8 19-12 29-12s22 4 30 12c16 16 16 43 0 59z m-592 221c-172 0-313 140-313 312s141 313 313 313 312-140 312-313-140-312-312-312z" horiz-adv-x="1000" />
+
+<glyph glyph-name="filter" unicode="&#xe803;" d="M125 600h458c0-46 38-83 84-83h83c46 0 83 37 83 83h42c23 0 42 19 42 42s-19 41-42 41h-42c0 46-37 84-83 84h-83c-46 0-84-38-84-84h-458c-23 0-42-18-42-41s19-42 42-42z m542 83h83v-41-42h-83v83z m208-291h-375c0 46-37 83-83 83h-84c-46 0-83-37-83-83h-125c-23 0-42-19-42-42 0-23 19-42 42-42h125c0-46 37-83 83-83h84c46 0 83 37 83 83h375c23 0 42 19 42 42 0 23-19 42-42 42z m-542-84v84h84v-42-42h-84z m542-208h-125c0 46-37 83-83 83h-84c-46 0-83-37-83-83h-375c-23 0-42-19-42-42s19-41 42-41h375c0-46 37-84 83-84h84c46 0 83 38 83 84h125c23 0 42 19 42 41s-19 42-42 42z m-292-83v83h84v-42-41h-84z" horiz-adv-x="1000" />
+
+<glyph glyph-name="left" unicode="&#xe804;" d="M979 371h-908l277 277c8 8 8 21 0 29-8 8-21 8-29 0l-313-312c-8-8-8-22 0-30l313-312c4-4 9-6 14-6 6 0 11 2 15 6 8 8 8 21 0 29l-277 277h908c12 0 21 10 21 21s-9 21-21 21z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>
